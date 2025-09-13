@@ -60,8 +60,8 @@ recommendation_system/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd recommendation_system
+   git clone https://github.com/efisse/IBM-Watson-Recommendation-System.git
+   cd IBM-Watson-Recommendation-System
    ```
 
 2. **Create virtual environment**
